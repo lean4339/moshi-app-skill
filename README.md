@@ -1,3 +1,5 @@
+> **Archived duplicate.** This package is maintained in [moshi-skill](https://github.com/lean4339/moshi-skill/tree/main/variants/app). Its sources and editions have been consolidated there.
+
 # Moshi · App Skill
 
 **A self-contained support protocol with optional journal and report integrations.**

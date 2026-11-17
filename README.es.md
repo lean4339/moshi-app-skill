@@ -1,3 +1,5 @@
+> **Duplicado archivado.** Este paquete se mantiene en [moshi-skill](https://github.com/lean4339/moshi-skill/tree/main/variants/app). Sus fuentes y variantes quedaron integradas allí.
+
 # Moshi · App Skill
 
 **Un protocolo autocontenido con integraciones opcionales de diario e informes.**
